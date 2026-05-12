@@ -18,7 +18,7 @@
 
 2. Captura o Reporte de Optimización:
 
-
+* [Reporte de optimización](/auditoria-optimizacion-final/stats.html)
 
 3. Fragmento de Código Mejorado:
 
